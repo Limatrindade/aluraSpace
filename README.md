@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# WebSite AluraSpace
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+| :placard: Vitrine.Dev | Matheus da Trindade Lima |
+| -------------  | --- |
+| :sparkles: Name        | **WebSite AluraSpace**
+| :label: Technologies | React, Sass
+| :bulb: Skills        | Posicionamento de elementos, Trabalhando com o React e entendendo a importância de utilizar os pré-processadores css.
 
-## Available Scripts
+# WebSite AluraSpace
+<p>
+  Nesse projeto realizado junto com a plataforma alura, realizei diversas tarefas, entretando o ponto crucial desse projeto foi de alguma forma se familiarizar cada vez mais com React, entendendo todo o seu real pontêncial, sua importância e revolução que o mesmo trouxe e ainda continua trazendo no desenvolvimento web num geral.
+</p>
 
-In the project directory, you can run:
+<p>
+  No site encontra-se uma página web estática feita com a tecnologia informada acima. Trabalhando no mesmo com habilidades de posicionamento de elementos, layout fixos, utilizando o flexbox.
+</p>
 
-### `npm start`
+<p>
+  Contém também toda a parte de estruração do projeto, antes mesmo de colocar a mão na massa, como por exemplo: fazer um planejamento antes mesmo de começar, separando arquivos, pastas, imagens que posteriormente seriam utilizadas no projeto. 
+</p>
+<p>
+  Separando todo código em uma pasta pai chamada Components, e posteriormente colocando cada componente em sua respectiva pasta, e também a sua estilização, criando assim uma organização melhor, e atendendo as demandas pedidas em um projeto profissional, como por exemplo sempre buscar criar um código e um projeto mais fácil para manutenção futuramente. 
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Layout web
 
-### `npm test`
+### Página inicial
+<img src="./utils/frame01.png" width="800" />
+<img src="./utils/frame02.png" width="800"/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clonar repositório
 
-### `npm run build`
+```bash
+  https://github.com/Limatrindade/aluraSpace
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Front-end
+Pré-requisitos: Navegador
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Editar com IDE ou Editor de preferência.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Acessar utilizando navegador de preferência.
 
-### `npm run eject`
+## Autor 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Matheus da Trindade Lima
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<a href="https://www.linkedin.com/in/matheus-lima-809407191/" target="_blank">
+    <img align="center" alt="html" height="30"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
